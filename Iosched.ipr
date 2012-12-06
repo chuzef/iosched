@@ -278,9 +278,8 @@
   </component>
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../libprojects/abs/ActionBarSherlock.iml" filepath="$PROJECT_DIR$/../libprojects/abs/ActionBarSherlock.iml" />
       <module fileurl="file://$PROJECT_DIR$/Iosched.iml" filepath="$PROJECT_DIR$/Iosched.iml" />
-      <module fileurl="file://$PROJECT_DIR$/libprojects/abs/abs.iml" filepath="$PROJECT_DIR$/libprojects/abs/abs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../libprojects/abs/abs.iml" filepath="$PROJECT_DIR$/../libprojects/abs/abs.iml" />
     </modules>
   </component>
   <component name="ProjectResources">
