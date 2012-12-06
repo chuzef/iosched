@@ -45,6 +45,7 @@
       <directory url="file://$PROJECT_DIR$/gen" includeSubdirectories="true" />
       <directory url="file://$PROJECT_DIR$/../libprojects/youtube/gen" includeSubdirectories="true" />
       <directory url="file://$PROJECT_DIR$/../libprojects/abs/gen" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/libprojects/abs/gen" includeSubdirectories="true" />
     </excludeFromCompile>
     <resourceExtensions>
       <entry name=".+\.(properties|xml|html|dtd|tld)" />
@@ -279,6 +280,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../libprojects/abs/ActionBarSherlock.iml" filepath="$PROJECT_DIR$/../libprojects/abs/ActionBarSherlock.iml" />
       <module fileurl="file://$PROJECT_DIR$/Iosched.iml" filepath="$PROJECT_DIR$/Iosched.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libprojects/abs/abs.iml" filepath="$PROJECT_DIR$/libprojects/abs/abs.iml" />
     </modules>
   </component>
   <component name="ProjectResources">
